@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hi, I am Kshitiz!
 🚀 Currently building MailPulse – Smart Email Tracking System<br>💻 Learning Backend Development (Node.js + Express.js)<br>📩 Reach me: gargkshitiz2@gmail.com<br><br>⚡ Fun fact — I turn coffee into clean code 🎧💻
 
 
