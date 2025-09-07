@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi, I am Kshitiz!</b></h1>
-<h3>🚀 Currently building MailPulse – Smart Email Tracking System<br>💻 Learning Backend Development (Node.js + Express.js)<br>📩 Reach me:<a mailto:gargkshitiz2@gmail.com)>gargkshitiz2@gmail.com</a><br><br>⚡ Fun fact — I debug faster with music 🎧💻</h3>
+<h3>🚀 Currently building MailPulse – Smart Email Tracking System<br>💻 Learning Backend Development (Node.js + Express.js)<br>📩 Reach me:<a href= mailto:gargkshitiz2@gmail.com)> gargkshitiz2@gmail.com</a><br><br>⚡ Fun fact — I debug faster with music 🎧💻</h3>
 
 
 ## 🌐 Socials:
